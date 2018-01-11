@@ -3,5 +3,5 @@ Rails.application.routes.draw do
 
   root 'cars#deals'
 
-  #hey Jon, your code is amazing.
+  #hey petter, this is an intentional conflit. 
 end
